@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/testCRCS">
+        <file>icon/in.png</file>
+        <file>icon/zoom_in.png</file>
+        <file>icon/zoom_out.png</file>
+        <file>icon/pan.png</file>
+        <file>icon/open.png</file>
+        <file>icon/im.png</file>
+        <file>icon/dc.png</file>
+        <file>icon/uc.png</file>
+        <file>icon/about.png</file>
+        <file>icon/help.png</file>
+        <file>icon/CRCS1.png</file>
+        <file>icon/CRCS1.ico</file>
+        <file>icon/uc1.png</file>
+        <file>icon/dc1.png</file>
+    </qresource>
+</RCC>
